@@ -27,6 +27,8 @@ url: "https://jme2103.github.io" # the base hostname & protocol for your site, e
 twitter_username: 
 github_username:  jme2103
 
+include: ['_pages']
+
 # Build settings
 theme: minima
 plugins:
