@@ -16,3 +16,11 @@
   margin-right: auto;
   width: 70%;
 }
+
+#p5CanvasContainer {
+  position: relative;
+  width: 400px; /* Example width */
+  height: 400px; /* Example height */
+  margin: 20px auto; /* Center the container */
+  border: 1px solid black;
+}
